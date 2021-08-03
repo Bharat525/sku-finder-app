@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sku-finder-app/static/css/main.4d7c0cea.chunk.css",
+    "main.js": "/sku-finder-app/static/js/main.ba423e27.chunk.js",
+    "main.js.map": "/sku-finder-app/static/js/main.ba423e27.chunk.js.map",
+    "runtime-main.js": "/sku-finder-app/static/js/runtime-main.0c1ce890.js",
+    "runtime-main.js.map": "/sku-finder-app/static/js/runtime-main.0c1ce890.js.map",
+    "static/js/2.871ca644.chunk.js": "/sku-finder-app/static/js/2.871ca644.chunk.js",
+    "static/js/2.871ca644.chunk.js.map": "/sku-finder-app/static/js/2.871ca644.chunk.js.map",
+    "index.html": "/sku-finder-app/index.html",
+    "static/css/main.4d7c0cea.chunk.css.map": "/sku-finder-app/static/css/main.4d7c0cea.chunk.css.map",
+    "static/js/2.871ca644.chunk.js.LICENSE.txt": "/sku-finder-app/static/js/2.871ca644.chunk.js.LICENSE.txt",
+    "static/media/login.01849878.jpg": "/sku-finder-app/static/media/login.01849878.jpg",
+    "static/media/main-login-Img2.73c2ca99.png": "/sku-finder-app/static/media/main-login-Img2.73c2ca99.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c1ce890.js",
+    "static/js/2.871ca644.chunk.js",
+    "static/css/main.4d7c0cea.chunk.css",
+    "static/js/main.ba423e27.chunk.js"
+  ]
+}
